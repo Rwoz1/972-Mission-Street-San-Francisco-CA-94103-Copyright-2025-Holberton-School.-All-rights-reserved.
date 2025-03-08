@@ -15,6 +15,11 @@ const database = {
           image: "doexQxl.pdf" // اسم الملف الصحيح
       },
       { 
+        name: "مهارات مدير المشوع", 
+        source: "اكادمية طويق",
+        image: "project-management.pdf" // اسم الملف الصحيح
+    },
+      { 
           name: "شهادة الذكاء اﻻصطناعي التوليدي مع سحابة علي بابا (GenAI)", 
           source: "اكادمية طويق",
           image: "QKD828Q.pdf" // اسم الملف الصحيح

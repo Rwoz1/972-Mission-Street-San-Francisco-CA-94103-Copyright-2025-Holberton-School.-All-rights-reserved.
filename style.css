@@ -52,8 +52,7 @@ body {
   font-size: 4rem;
   margin-bottom: 1rem;
   background: linear-gradient(90deg, #ff6b6b, #4ecdc4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+
 }
 
 .section {
@@ -287,4 +286,3 @@ body.light-mode {
   .notes-form textarea {
       grid-column: span 1;
   }
-}
